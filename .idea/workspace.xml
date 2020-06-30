@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca0bac7-7284-412b-a28f-76eaa51d07e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/qawolf.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Godex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qawolf.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-completed-popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-exchange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/24.06.2020/status-wait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8/status-completed-popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-completed-popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhone8Plus/24.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/24.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/24.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/24.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/24.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/24.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-completed-popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/iPhoneX/25.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/24.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/24.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/24.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/24.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/24.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/25.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/25.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/25.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/25.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/25.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/page-dictionary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/26.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/page-dictionary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-confirmation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-exchanging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-starting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-waiting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/prod/web/page-dictionary.png" afterDir="false" />
-    </list>
+    <list default="true" id="aca0bac7-7284-412b-a28f-76eaa51d07e5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,10 +89,10 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/workflows/qawolf.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="-22">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
@@ -173,15 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="12" selection-start-line="43" selection-end-line="43" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -248,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-24" />
     <option name="y" value="11" />
     <option name="width" value="1860" />
@@ -303,7 +236,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593523211744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593524188162" />
     <property name="last_opened_file_path" value="$USER_HOME$/my-wolf-project" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -346,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-19" y="9" width="1488" height="788" extended-state="1" />
+    <frame x="-19" y="9" width="1488" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.29131654" />
@@ -596,13 +529,6 @@
     <entry file="file://$PROJECT_DIR$/screenshot/dev/web/29.06.2020/status-waiting.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/qawolf.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Godex/prod/[prod]AppModalTestProd.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51" />
@@ -611,6 +537,13 @@
     <entry file="file://$PROJECT_DIR$/Godex/prod/[prod]DictionarySearchLetterthis.test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="12" selection-start-line="43" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Godex/prod/[prod]MainPage.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -618,10 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.github/workflows/qawolf.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="43" column="12" selection-start-line="43" selection-end-line="43" selection-end-column="12" />
+        <state relative-caret-position="-22">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
